@@ -17,7 +17,7 @@ Hi, I'm Mario — a former legal and administrative professional now transitioni
 - Log analysis and alerting
 - Python scripting for automation
 - Network fundamentals and TCP/IP
-- Linux environments (Kali Linux, Metasploitable)
+- Linux environments (Kali Linux, Metasploitable, NMAP)
 
 ## 🛠️ Projects
 | Project | Description | Skills |
