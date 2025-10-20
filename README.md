@@ -12,7 +12,7 @@ Hi, I'm Mario — a former legal and administrative professional now transitioni
 - Grow into a Blue Team cybersecurity specialist
 
 ## 🧠 What I'm Learning
-- SIEM tools (Splunk, Wazuh)
+- SIEM tools (Splunk - learning)
 - MITRE ATT&CK framework
 - Log analysis and alerting
 - Python scripting for automation
