@@ -1,5 +1,5 @@
 # soc-journey
-Sharing my personal journey to a CvberSecurity role
+Sharing my personal journey to a CyberSecurity role
 
 # 🛡️ SOC Analyst Journey – From Law to Cybersecurity
 
